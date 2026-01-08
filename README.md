@@ -26,14 +26,17 @@ I am a trilingual (English/Spanish/French) leader with a proven ability to maste
 
 #### [Careoscope](https://github.com/giankarlo-o/Careoscope) 🏥
 **Full-Stack Web App | ASP.NET Core, C#, MySQL**
+
 A medical clinic scheduler designed to manage appointments and patient history. It features a PageModel-driven architecture with Razor Pages to handle complex relationships between doctors, patients, and visit notes.
 
 #### [BuffMail Management](https://github.com/giankarlo-o/BuffMail-Management) 📦
 **Logistics & Notification System | ASP.NET Core, SQL**
+
 A logistics-focused application that automates package intake and student notifications. This project leverages my background in logistics to solve "last-mile" delivery challenges through automated C# workflows.
 
 #### [My Pantry](https://github.com/giankarlo-o/My-Pantry) 🍎 *(In Development)*
 **Mobile App | Kotlin, Jetpack Compose, SQLite**
+
 An offline-first, privacy-centric meal planner. It prioritizes data sovereignty by storing all inventory and recipe data locally on-device, applying a "Security-First" mindset to mobile architecture.
 
 ---
