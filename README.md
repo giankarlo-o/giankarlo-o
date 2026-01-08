@@ -24,6 +24,11 @@ I am a trilingual (English/Spanish/French) leader with a proven ability to maste
 
 ### 📂 Featured Projects
 
+#### [Travel Intelligence Agent](https://github.com/giankarlo-o/TravelIntelligenceAgent) ✈️ *(In Development)*
+**Agentic AI Platform | ASP.NET Core, C#, Tailwind CSS, Cursor AI**
+
+An AI-driven recommendation engine that utilizes agentic reasoning to prioritize travel options based on complex user personas. Features a multi-layer service architecture, Strategy Pattern for persona-specific logic, and high-performance asynchronous data handling. 
+
 #### [Careoscope](https://github.com/giankarlo-o/Careoscope) 🏥
 **Full-Stack Web App | ASP.NET Core, C#, MySQL**
 
@@ -45,18 +50,3 @@ An offline-first, privacy-centric meal planner. It prioritizes data sovereignty 
 * **LinkedIn:** [linkedin.com/in/gianortiz](https://www.linkedin.com/in/gianortiz/) 
 * **Location:** Minneapolis, MN 
 * **Availability:** Seeking Full-Time Software Engineering roles starting May 2026 
-
-<!--
-**giankarlo-o/giankarlo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
