@@ -1,6 +1,6 @@
 # Hi, I'm Gian Ortiz 👋
 
-### Software Engineer | CIS Degree Candidate (May 2026) | U.S. Army Veteran
+### Software Engineer | U.S. Army Veteran
 **Versatile developer merging Military Intelligence discipline with Full-Stack expertise.**
 
 I am a trilingual (English/Spanish/French) leader with a proven ability to master complex systems—from intensive language acquisition to full-stack development. Currently finishing my final semester of Computer Information Systems, I bridge the gap between technical logic and business objectives to build secure, scalable, and user-centric solutions.
@@ -16,8 +16,8 @@ I am a trilingual (English/Spanish/French) leader with a proven ability to maste
 ---
 
 ### 🛠️ Technical Stack & Skills
-* **Languages:** C#, SQL, Kotlin, JavaScript, HTML/CSS 
-* **Frameworks & Tools:** ASP.NET Core (Razor Pages), Jetpack Compose, Git/GitHub, MySQL 
+* **Languages:** C#, SQL, Kotlin, JavaScript/Typescript, HTML/CSS 
+* **Frameworks & Tools:** ASP.NET Core (Razor Pages), Jetpack Compose, Git/GitHub, MySQL, Node.JS, MongoDB
 * **Professional Skills:** Technical Mentorship, Project Lifecycle Management, OPSEC
 
 ---
